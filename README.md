@@ -11,6 +11,7 @@
 📈 While you're here, check out my Data Science stuff.
 * [What does Anthony Fantano think of Kendrick Lamar's albums?](https://sochmoreblog.netlify.app/project/needledrop-sentiment-analysis)
 * [Google Playstore vs Apple Appstore](https://www.kaggle.com/kendrake6/google-playstore-vs-apple-app-store-eda)
+* [Random Forest CLF on the Titanic Dataset (Top 17% on Kaggle)](https://www.kaggle.com/kendrake6/random-forest-clf-on-the-titanic-dataset)
 * Follow me on [Kaggle](https://www.kaggle.com/kendrake6)
 
 ✍️ I'm also studying Creative Writing! Cool, right?
