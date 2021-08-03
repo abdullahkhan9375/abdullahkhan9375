@@ -1,4 +1,4 @@
-## :wave: Hey there! I'm [Abdullah Khan](sochmoreblog.netlify.app).
+## :wave: Hey there! I'm [Abdullah Khan](https://sochmoreblog.netlify.app).
 
 ## I'm a Data Science student :student: at [Macquarie Univeristy](https://www.mq.edu.au/) with a knack for Front-end. Just trying to change the world, one indent at a time.
 
