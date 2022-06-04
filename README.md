@@ -14,12 +14,7 @@
 * [Random Forest CLF on the Titanic Dataset (Top 5% on Kaggle)](https://www.kaggle.com/kendrake6/random-forest-clf-on-the-titanic-dataset)
 * Follow me on [Kaggle](https://www.kaggle.com/kendrake6)
 
-✍️ I'm also studying Creative Writing! Cool, right?
+✍️ Checkout my Creative Writing! Cool, right?
 * Follow me on [Medium!](https://kendrake6.medium.com/)
 * My [Hip-hop blog](https://sochmore.wordpress.com/)
 * My personal [writing zone](https://sochmoreblog.netlify.app/post)
-
-
-
-
-
