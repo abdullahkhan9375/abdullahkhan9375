@@ -1,6 +1,6 @@
 ## :wave: Hey there! I'm [Abdullah Khan](https://sochmoreblog.netlify.app).
 
-## I'm a Data Science graduate :student: from [Macquarie Univeristy](https://www.mq.edu.au/) with a knack for Front-end. Just trying to change the world, one indent at a time. Currently, I'm working at Proxima Capital.
+## I'm a Data Science graduate :student: from [Macquarie Univeristy](https://www.mq.edu.au/) with a knack for Front-end. Just trying to change the world, one indent at a time. Currently, I'm working at Epoch Capital.
 
 ## 👇 I'll let my work speak for itself.
 
