@@ -1,8 +1,14 @@
-## :wave: Hey there! I'm [Abdullah Khan](https://sochmoreblog.netlify.app).
+## :wave: Hey there! I'm [Abdullah Khan](https://sochmoreblog.netlify.app)
 
-## I'm a Data Science graduate :student: from [Macquarie Univeristy](https://www.mq.edu.au/) with a knack for Front-end. Just trying to change the world, one indent at a time. Currently, I'm working at Epoch Capital.
+## I'm a software engineer 🧑‍💻: with a knack for building stuff that works and feels great. Just trying to change the world, one indent at a time. Currently, I'm working at Epoch Capital.
 
-## 👇 I'll let my work speak for itself.
+## About me
+2021: I graduated from [Macquarie Univeristy](https://www.mq.edu.au/) in 2021
+2022: Worked for Proxima Capital as a junior dev focusing on a React based Front-end app along with AWS serverless technology.
+2023 - Present: Working at Proxima Capital as a backend engineer where my key focuses include (but are not limited to) building and maintaining python-based micro-services and realtime systems as well as setting data pipelines and workflows using Airflow.
+
+
+## 👇 Enough of the professional stuff, I do this for fun too!
 
 🖌️ Take a look at my Front-end projects.
 - [Breaking Bad Quiz](breakingbadquiz.netlify.app)
