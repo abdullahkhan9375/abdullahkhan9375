@@ -1,6 +1,8 @@
 ## :wave: Hey there! I'm [Abdullah Khan](https://sochmoreblog.netlify.app)
 
-## I'm a software engineer 🧑‍💻: with a knack for building stuff that works and feels great. Just trying to change the world, one indent at a time. Currently, I'm working at Epoch Capital.
+I'm a software engineer 🧑‍💻 who has a knack for learning more about engineering practices and technologies. Just trying to change the world, one indent at a time.
+
+Currently, I'm working at Epoch Capital.
 
 ## About me
 2021: I graduated from [Macquarie Univeristy](https://www.mq.edu.au/) in 2021
